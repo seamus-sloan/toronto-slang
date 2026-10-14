@@ -1,5 +1,7 @@
 # toronto-slang
 
+> **Moved:** this style now lives in [seamus-sloan/claude-output-styles](https://github.com/seamus-sloan/claude-output-styles/tree/main/plugins/toronto-slang). This repo is archived.
+
 An output style for Claude Code that talks like mans from the 6ix. Thick, barely legible, fam on every line.
 
 > Six sixes styll fam. Mans pree'd di logs, ahlie. `test_login` dead cause `TOKEN_TTL` set to `0` inna `.env.test`, so every token expire di second it touch, bare moshup fam. Flip it to `3600`, run it back, light work wallahi.
